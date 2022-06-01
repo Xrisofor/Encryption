@@ -1,0 +1,3 @@
+D:\Project\SharpDevelop Projects\Encryption\Encryption\bin\Debug\Encryption.dll
+D:\Project\SharpDevelop Projects\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+D:\Project\SharpDevelop Projects\Encryption\Encryption\obj\Debug\Encryption.dll
